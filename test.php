@@ -1,4 +1,5 @@
 <?php 
    echo "hoang";
-asdadsfsdfkasdf
+asdadsfsdfkasdf;
+asdf;
 ?>
